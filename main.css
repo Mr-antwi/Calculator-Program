@@ -90,3 +90,7 @@ button:hover{
     background-color: #2c9a6a;
     color: #fff;
 }
+
+.equal-btn:hover{
+    background-color: #3a9a7c;
+}   
